@@ -238,7 +238,7 @@ Entre elas:
 Clone o repositório:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/eucarlosz/tempero-leve.git
 ```
 
 Entre na pasta:
@@ -259,9 +259,9 @@ Também é possível executar o projeto utilizando a extensão **Live Server** n
 
 ## 🌐 Deploy
 
-A versão online do projeto será disponibilizada após a conclusão do deploy.
+O projeto está publicado através do GitHub Pages.
 
-**Site:** `em breve`
+**Site:** https://eucarlosz.github.io/tempero-leve/
 
 ---
 
