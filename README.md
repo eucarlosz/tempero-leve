@@ -257,11 +257,11 @@ Também é possível executar o projeto utilizando a extensão **Live Server** n
 
 ---
 
-## 🌐 Deploy
+## Deploy
 
-O projeto está publicado através do GitHub Pages.
+O projeto está disponível em:
 
-**Site:** https://eucarlosz.github.io/tempero-leve/
+https://www.temperoleve.com.br
 
 ---
 
